@@ -1,3 +1,5 @@
+Blog Post page using React
+
 Step 1: Clone the repo
 
 Step 2: Open it in the vs code editor(or any other editor)
