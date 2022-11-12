@@ -1,7 +1,11 @@
 Step 1: Clone the repo
+
 Step 2: Open it in the vs code editor(or any other editor)
+
 Step 3: Open the terminal
+
 Step 4: Type the Command "npm start"
+
 Step 5: The brower opens automatically if not open the browser and type localhost:3000 and press enter
 
 <!-- # Getting Started with Create React App
